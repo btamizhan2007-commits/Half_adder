@@ -35,11 +35,4 @@ image: [image.pdf](https://github.com/user-attachments/files/24055851/image.pdf)
 waves: [unknown.bmp](https://github.com/user-attachments/files/24055843/unknown.bmp)
 
 output:
-
-we got the expected output in program
-
-
-
-output:
-
-we got the expected output in program
+       we got the expected output in program
