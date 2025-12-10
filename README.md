@@ -28,7 +28,8 @@ module half_adder (
     // Logic equations
     assign sum   = a ^ b;   // XOR for sum
     assign carry = a & b;   // AND for carry
-
+NAME: B.TAMIZHAN
+REF NO: 25018064
 endmodule
 image: [image.pdf](https://github.com/user-attachments/files/24055851/image.pdf)
 
